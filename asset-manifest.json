@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Khedoot/static/css/main.241e825a.css",
-    "main.js": "/Khedoot/static/js/main.f0d8e026.js",
+    "main.js": "/Khedoot/static/js/main.d4373b9f.js",
     "static/media/login_image.jpg": "/Khedoot/static/media/login_image.244a0569602c6dbf6df0.jpg",
     "index.html": "/Khedoot/index.html",
     "main.241e825a.css.map": "/Khedoot/static/css/main.241e825a.css.map",
-    "main.f0d8e026.js.map": "/Khedoot/static/js/main.f0d8e026.js.map"
+    "main.d4373b9f.js.map": "/Khedoot/static/js/main.d4373b9f.js.map"
   },
   "entrypoints": [
     "static/css/main.241e825a.css",
-    "static/js/main.f0d8e026.js"
+    "static/js/main.d4373b9f.js"
   ]
 }
