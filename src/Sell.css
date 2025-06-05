@@ -1,0 +1,104 @@
+.sell-body fieldset label{
+    color: black;
+}
+
+.sell-body .Information{
+    padding : 60px;
+}
+
+.sell-body .Information legend{
+    font-size: 26px;
+    font-weight: bold;
+    position: relative;
+}
+
+.sell-body .Information legend::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 3px;
+    width: 30px;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+}
+
+.sell-body fieldset{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 28px 0;
+    margin: 28px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+
+.sell-body form{
+    margin: 0 200px;
+}
+
+.sell-body .input-box{
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    padding: 10px;
+}
+
+.sell-body .input-box label, .head{
+    width: 95%;
+    font-weight: bold;
+    margin: 5px 0;
+}
+
+.sell-body .head{
+    font-size: 16px;
+    padding: 10px;
+}
+
+.sell-body .txt{
+    height: 40px;
+    width: 95%;
+    padding: 0 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    outline: none;
+}
+
+.sell-body .txt:is(:focus,:hover){
+    box-shadow: 0 3px 6px rgba(0,0,0,0.2);
+}
+
+.sell-body .submit-item{
+    margin: 28px; 
+}
+
+.sell-body .submit-item button{
+    width: 100%;
+    padding: 10px;
+    display: block;
+    font-size : 20px;
+    color : #fff;
+    border: none;
+    border-radius: 28px;
+    background-image: linear-gradient(to right, #aa076b, #61045f);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.sell-body .submit-item button:hover{
+    background-image: linear-gradient(to right, #61045f, #aa076b);
+}
+
+.sell-body select#crop_type {
+    height: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 0 10px;
+    cursor: pointer;
+    background-color: var(--darkgray);
+    color: grey;
+}
+
+.sell-body select#crop_type:hover{
+    box-shadow: 0 3px 6px rgba(0,0,0,0.2);
+}
