@@ -9,7 +9,7 @@ import CropSearch from './Search';
 
 const root = ReactDOM.createRoot(document.getElementById('root')); 
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename= "/Khedoot">
     <Routes>
       <Route path="/" element={<Main />} />
       <Route path="/login" element={<Login />} />
