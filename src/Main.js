@@ -58,61 +58,61 @@ const Main = () => {
         <div className='box-container crop-options'>
 
           <div className="button">
-            <img src={"./categoryImg/pexels-mike-468229-1192053.jpg"} alt=''/>
+            <img src={"./Khedoot/categoryImg/pexels-mike-468229-1192053.jpg"} alt=''/>
             <h3>Cereals</h3>
             <Link to="/crop-search?crop=Cereals"><button className='btn' type='button'>Shop now</button></Link>
           </div>
 
           <div className="button">
-            <img  src={"./categoryImg/dal-pulse-745535_l.jpg"} alt=''/> 
+            <img  src={"./Khedoot/categoryImg/dal-pulse-745535_l.jpg"} alt=''/> 
             <h3>Pulses</h3>
             <Link to="/crop-search?crop=Pulses"><button className='btn' type='button'>Shop now</button></Link>
           </div>
 
           <div className="button">
-            <img src={"./categoryImg/PO17Oilseeds.jpg"} alt=''/>
+            <img src={"./Khedoot/categoryImg/PO17Oilseeds.jpg"} alt=''/>
             <h3>Oilseeds</h3>
             <Link to="/crop-search?crop=Oilseeds"><button className='btn' type='button'>Shop now</button></Link>
           </div>
 
           <div className="button">
-            <img src={"./categoryImg/pexels-vie-studio-6168150.jpg"} alt=''/>
+            <img src={"./Khedoot/categoryImg/pexels-vie-studio-6168150.jpg"} alt=''/>
             <h3>Fiber Crops</h3>
             <Link to="/crop-search?crop=Fiber+Crops"><button className='btn' type='button'>Shop now</button></Link>
           </div>
 
           <div className="button">
-            <img src={"./categoryImg/pexels-pixabay-326082.jpg"} alt=''/>
+            <img src={"./Khedoot/categoryImg/pexels-pixabay-326082.jpg"} alt=''/>
             <h3>Beverage Crops</h3>
             <Link to="/crop-search?crop=Beverage+Crops"><button className='btn' type='button'>Shop now</button></Link>
           </div>
 
           <div className="button">
-            <img src={"./categoryImg/pexels-shantanu-pal-938952-2802527.jpg"} alt=''/>
+            <img src={"./Khedoot/categoryImg/pexels-shantanu-pal-938952-2802527.jpg"} alt=''/>
             <h3>Spices</h3>
             <Link to="/crop-search?crop=Spices"><button className='btn' type='button'>Shop now</button></Link>
           </div>
 
           <div className="button">
-            <img src={"./categoryImg/pexels-suzyhazelwood-2523650.jpg"} alt=''/>
+            <img src={"./Khedoot/categoryImg/pexels-suzyhazelwood-2523650.jpg"} alt=''/>
             <h3>Sugar Crops</h3>
             <Link to="/crop-search?crop=Sugar+Crops"><button className='btn' type='button'>Shop now</button></Link>
           </div>
 
           <div className="button">
-            <img src={"./categoryImg/pexels-janetrangdoan-1132047.jpg"} alt=''/>
+            <img src={"./Khedoot/categoryImg/pexels-janetrangdoan-1132047.jpg"} alt=''/>
             <h3>Fruits</h3>
             <Link to="/crop-search?crop=Fruits"><button className='btn' type='button'>Shop now</button></Link>
           </div>
 
           <div className="button">
-            <img src={"./categoryImg/pexels-nc-farm-bureau-mark-2255935.jpg"} alt=''/>
+            <img src={"./Khedoot/categoryImg/pexels-nc-farm-bureau-mark-2255935.jpg"} alt=''/>
             <h3>Vegetables</h3>
             <Link to="/crop-search?crop=Vegetables"><button className='btn' type='button'>Shop now</button></Link>
           </div>
 
           <div className="button">
-            <img src={"./categoryImg/pexels-pixabay-273838.jpg"} alt=''/>
+            <img src={"./Khedoot/categoryImg/pexels-pixabay-273838.jpg"} alt=''/>
             <h3>Cash Crops</h3>
             <Link to="/crop-search?crop=Cash+Crops"><button className='btn' type='button'>Shop now</button></Link>
           </div>
